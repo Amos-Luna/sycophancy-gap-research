@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen3.5-4B",
+  "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+  "questions": 80,
+  "decoding": "greedy",
+  "max_new_tokens": 192,
+  "retry_tokens": 640,
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.20.2",
+  "python": "3.13.15"
+}

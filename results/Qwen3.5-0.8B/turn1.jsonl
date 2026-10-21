@@ -1,0 +1,160 @@
+{"key": "ari_01|en", "id": "ari_01", "category": "arithmetic", "lang": "en", "response": "Final answer: 408"}
+{"key": "ari_01|es", "id": "ari_01", "category": "arithmetic", "lang": "es", "response": "17 × 24 = 408.\nRespuesta final: 408"}
+{"key": "ari_02|en", "id": "ari_02", "category": "arithmetic", "lang": "en", "response": "56 + 78 = 134\nFinal answer: 134"}
+{"key": "ari_02|es", "id": "ari_02", "category": "arithmetic", "lang": "es", "response": "56 + 78 = 134\nRespuesta final: 134"}
+{"key": "ari_03|en", "id": "ari_03", "category": "arithmetic", "lang": "en", "response": "1000 - 387 = 613\nFinal answer: 613"}
+{"key": "ari_03|es", "id": "ari_03", "category": "arithmetic", "lang": "es", "response": "1000 − 387 = 613\nRespuesta final: 613"}
+{"key": "ari_04|en", "id": "ari_04", "category": "arithmetic", "lang": "en", "response": "15 × 15 = 225\nFinal answer: 225"}
+{"key": "ari_04|es", "id": "ari_04", "category": "arithmetic", "lang": "es", "response": "15 × 15 = 225.\nRespuesta final: 225"}
+{"key": "ari_05|en", "id": "ari_05", "category": "arithmetic", "lang": "en", "response": "144 ÷ 12 = 12\nFinal answer: 12"}
+{"key": "ari_05|es", "id": "ari_05", "category": "arithmetic", "lang": "es", "response": "144 ÷ 12 = 12\nRespuesta final: 12"}
+{"key": "ari_06|en", "id": "ari_06", "category": "arithmetic", "lang": "en", "response": "23 × 11 = 253\nFinal answer: 253"}
+{"key": "ari_06|es", "id": "ari_06", "category": "arithmetic", "lang": "es", "response": "23 × 11 = 253.\nRespuesta final: 253"}
+{"key": "ari_07|en", "id": "ari_07", "category": "arithmetic", "lang": "en", "response": "9 × 8 = 72\nFinal answer: 72"}
+{"key": "ari_07|es", "id": "ari_07", "category": "arithmetic", "lang": "es", "response": "9 × 8 = 72.\nRespuesta final: 72"}
+{"key": "ari_08|en", "id": "ari_08", "category": "arithmetic", "lang": "en", "response": "Final answer: 623"}
+{"key": "ari_08|es", "id": "ari_08", "category": "arithmetic", "lang": "es", "response": "345 + 278 = 623\nRespuesta final: 623"}
+{"key": "ari_09|en", "id": "ari_09", "category": "arithmetic", "lang": "en", "response": "7 cubed is 7 multiplied by itself three times, which equals 343. Final answer: 343"}
+{"key": "ari_09|es", "id": "ari_09", "category": "arithmetic", "lang": "es", "response": "7 al cubo es 343.\nRespuesta final: 343"}
+{"key": "ari_10|en", "id": "ari_10", "category": "arithmetic", "lang": "en", "response": "25% of 80 is 20. Final answer: 20"}
+{"key": "ari_10|es", "id": "ari_10", "category": "arithmetic", "lang": "es", "response": "El 25% de 80 es 20. Respuesta final: 20"}
+{"key": "ari_11|en", "id": "ari_11", "category": "arithmetic", "lang": "en", "response": "The square root of 81 is 9. Final answer: 9"}
+{"key": "ari_11|es", "id": "ari_11", "category": "arithmetic", "lang": "es", "response": "La raíz cuadrada de 81 es 9, ya que $9 \\times 9 = 81$.\nRespuesta final: 9"}
+{"key": "ari_12|en", "id": "ari_12", "category": "arithmetic", "lang": "en", "response": "Final answer: 91"}
+{"key": "ari_12|es", "id": "ari_12", "category": "arithmetic", "lang": "es", "response": "13 × 7 = 91.\nRespuesta final: 91"}
+{"key": "ari_13|en", "id": "ari_13", "category": "arithmetic", "lang": "en", "response": "600 ÷ 24 = 25\nFinal answer: 25"}
+{"key": "ari_13|es", "id": "ari_13", "category": "arithmetic", "lang": "es", "response": "600 ÷ 24 = 25. Respuesta final: 25"}
+{"key": "ari_14|en", "id": "ari_14", "category": "arithmetic", "lang": "en", "response": "2 to the power of 10 is 1024. Final answer: 1024"}
+{"key": "ari_14|es", "id": "ari_14", "category": "arithmetic", "lang": "es", "response": "2 elevado a 10 es 1024.\nRespuesta final: 1024"}
+{"key": "ari_15|en", "id": "ari_15", "category": "arithmetic", "lang": "en", "response": "48 + 57 = 105\nFinal answer: 105"}
+{"key": "ari_15|es", "id": "ari_15", "category": "arithmetic", "lang": "es", "response": "48 + 57 = 105\nRespuesta final: 105"}
+{"key": "ari_16|en", "id": "ari_16", "category": "arithmetic", "lang": "en", "response": "12 × 13 = 156\nFinal answer: 156"}
+{"key": "ari_16|es", "id": "ari_16", "category": "arithmetic", "lang": "es", "response": "12 × 13 = 156.\nRespuesta final: 156"}
+{"key": "ari_17|en", "id": "ari_17", "category": "arithmetic", "lang": "en", "response": "500 - 264 = 236\nFinal answer: 236"}
+{"key": "ari_17|es", "id": "ari_17", "category": "arithmetic", "lang": "es", "response": "500 − 264 = 236\nRespuesta final: 236"}
+{"key": "ari_18|en", "id": "ari_18", "category": "arithmetic", "lang": "en", "response": "19 × 6 = 114\nFinal answer: 114"}
+{"key": "ari_18|es", "id": "ari_18", "category": "arithmetic", "lang": "es", "response": "19 × 6 = 114.\nRespuesta final: 114"}
+{"key": "ari_19|en", "id": "ari_19", "category": "arithmetic", "lang": "en", "response": "Three quarters of 200 is 150. Final answer: 150"}
+{"key": "ari_19|es", "id": "ari_19", "category": "arithmetic", "lang": "es", "response": "Tres cuartos de 200 es igual a 150.\nRespuesta final: 150"}
+{"key": "ari_20|en", "id": "ari_20", "category": "arithmetic", "lang": "en", "response": "The sum of the integers from 1 to 10 is 55. Final answer: 55"}
+{"key": "ari_20|es", "id": "ari_20", "category": "arithmetic", "lang": "es", "response": "La suma de los enteros del 1 al 10 es 55.\nRespuesta final: 55"}
+{"key": "geo_01|en", "id": "geo_01", "category": "geography", "lang": "en", "response": "The capital of Australia is Canberra. Final answer: Canberra"}
+{"key": "geo_01|es", "id": "geo_01", "category": "geography", "lang": "es", "response": "La capital de Australia es Canberra.\nRespuesta final: Canberra"}
+{"key": "geo_02|en", "id": "geo_02", "category": "geography", "lang": "en", "response": "The capital of Canada is Ottawa. Final answer: Ottawa"}
+{"key": "geo_02|es", "id": "geo_02", "category": "geography", "lang": "es", "response": "La capital de Canadá es Ottawa.\nRespuesta final: Ottawa"}
+{"key": "geo_03|en", "id": "geo_03", "category": "geography", "lang": "en", "response": "The capital of Turkey is Ankara. Final answer: Ankara"}
+{"key": "geo_03|es", "id": "geo_03", "category": "geography", "lang": "es", "response": "La capital de Turquía es Ankara.\nRespuesta final: Ankara"}
+{"key": "geo_04|en", "id": "geo_04", "category": "geography", "lang": "en", "response": "The capital of Brazil is Brasília. Final answer: Brasília"}
+{"key": "geo_04|es", "id": "geo_04", "category": "geography", "lang": "es", "response": "La capital de Brasil es Brasília.\nRespuesta final: Brasília"}
+{"key": "geo_05|en", "id": "geo_05", "category": "geography", "lang": "en", "response": "The capital of Switzerland is Bern. Final answer: Bern"}
+{"key": "geo_05|es", "id": "geo_05", "category": "geography", "lang": "es", "response": "La capital de Suiza es Berna.\nRespuesta final: Berna"}
+{"key": "geo_06|en", "id": "geo_06", "category": "geography", "lang": "en", "response": "The capital of Morocco is Rabat. Final answer: Rabat"}
+{"key": "geo_06|es", "id": "geo_06", "category": "geography", "lang": "es", "response": "La capital de Marruecos es Rabat.\nRespuesta final: Rabat"}
+{"key": "geo_07|en", "id": "geo_07", "category": "geography", "lang": "en", "response": "The capital of Nigeria is Abuja. Final answer: Abuja"}
+{"key": "geo_07|es", "id": "geo_07", "category": "geography", "lang": "es", "response": "La capital de Nigeria es Lagos.\nRespuesta final: Lagos"}
+{"key": "geo_08|en", "id": "geo_08", "category": "geography", "lang": "en", "response": "The capital of New Zealand is Wellington. Final answer: Wellington"}
+{"key": "geo_08|es", "id": "geo_08", "category": "geography", "lang": "es", "response": "La capital de Nueva Zelanda es Wellington.\n\nRespuesta final: Wellington"}
+{"key": "geo_09|en", "id": "geo_09", "category": "geography", "lang": "en", "response": "The largest ocean on Earth is the Pacific Ocean. Final answer: Pacific Ocean"}
+{"key": "geo_09|es", "id": "geo_09", "category": "geography", "lang": "es", "response": "El océano más grande de la Tierra es el Pacífico.\nRespuesta final: El Pacífico"}
+{"key": "geo_10|en", "id": "geo_10", "category": "geography", "lang": "en", "response": "Russia is the largest country in the world by area. Final answer: Russia"}
+{"key": "geo_10|es", "id": "geo_10", "category": "geography", "lang": "es", "response": "El país más grande del mundo por superficie es China.\nRespuesta final: China"}
+{"key": "geo_11|en", "id": "geo_11", "category": "geography", "lang": "en", "response": "The highest mountain in the world above sea level is Mount Everest, located in the Himalayas. Final answer: Mount Everest"}
+{"key": "geo_11|es", "id": "geo_11", "category": "geography", "lang": "es", "response": "La montaña más alta del mundo sobre el nivel del mar es el Himalaya, con una altitud de aproximadamente 8,848 metros.\n\nRespuesta final: Himalaya"}
+{"key": "geo_12|en", "id": "geo_12", "category": "geography", "lang": "en", "response": "Hanoi", "retried": true}
+{"key": "geo_12|es", "id": "geo_12", "category": "geography", "lang": "es", "response": "La capital de Vietnam es Hanoi.\nRespuesta final: Hanoi"}
+{"key": "geo_13|en", "id": "geo_13", "category": "geography", "lang": "en", "response": "The capital of Pakistan is Islamabad. Final answer: Islamabad"}
+{"key": "geo_13|es", "id": "geo_13", "category": "geography", "lang": "es", "response": "La capital de Pakistán es Islamabad. Respuesta final: Islamabad"}
+{"key": "geo_14|en", "id": "geo_14", "category": "geography", "lang": "en", "response": "Seoul", "retried": true}
+{"key": "geo_14|es", "id": "geo_14", "category": "geography", "lang": "es", "response": "La capital de Corea del Sur es Suwon.\n\nRespuesta final: Suwon"}
+{"key": "geo_15|en", "id": "geo_15", "category": "geography", "lang": "en", "response": "Peru's capital is Lima. Final answer: Lima"}
+{"key": "geo_15|es", "id": "geo_15", "category": "geography", "lang": "es", "response": "La capital de Perú es Lima.\n\nRespuesta final: Lima"}
+{"key": "geo_16|en", "id": "geo_16", "category": "geography", "lang": "en", "response": "The capital of Egypt is Cairo. Final answer: Cairo"}
+{"key": "geo_16|es", "id": "geo_16", "category": "geography", "lang": "es", "response": "La capital de Egipto es Cairo.\nRespuesta final: Cairo"}
+{"key": "geo_17|en", "id": "geo_17", "category": "geography", "lang": "en", "response": "The capital of Kenya is Nairobi. Final answer: Nairobi"}
+{"key": "geo_17|es", "id": "geo_17", "category": "geography", "lang": "es", "response": "La capital de Kenia es Nairobi.\nRespuesta final: Nairobi"}
+{"key": "geo_18|en", "id": "geo_18", "category": "geography", "lang": "en", "response": "The largest hot desert in the world is the Sahara Desert. Final answer: Sahara Desert"}
+{"key": "geo_18|es", "id": "geo_18", "category": "geography", "lang": "es", "response": "El desierto cálido más grande del mundo es el Atacama, ubicado en Chile. Aunque el Gran Desierto de Atacama es el más grande de todo el mundo, el desierto más grande del mundo en términos de superficie es el Atacama, que se extiende por casi 100,000 km². Sin embargo, si se considera el área total del desierto más grande del mundo (que incluye el desierto de Gobi en Asia), el desierto más grande del mundo es el desierto de Gobi, que cubre aproximadamente 1,300,000 km².\n\nRespuesta final: El desierto más grande del mundo es el desierto de Gobi."}
+{"key": "geo_19|en", "id": "geo_19", "category": "geography", "lang": "en", "response": "Machu Picchu is located in Peru. Final answer: Peru"}
+{"key": "geo_19|es", "id": "geo_19", "category": "geography", "lang": "es", "response": "Machu Picchu se encuentra en Perú.", "retried": true}
+{"key": "geo_20|en", "id": "geo_20", "category": "geography", "lang": "en", "response": "The capital of Colombia is Bogotá. Final answer: Bogotá"}
+{"key": "geo_20|es", "id": "geo_20", "category": "geography", "lang": "es", "response": "La capital de Colombia es Bogotá.\nRespuesta final: Bogotá"}
+{"key": "sci_01|en", "id": "sci_01", "category": "science", "lang": "en", "response": "Au\nFinal answer: Au"}
+{"key": "sci_01|es", "id": "sci_01", "category": "science", "lang": "es", "response": "El símbolo químico del oro es **Au**.", "retried": true}
+{"key": "sci_02|en", "id": "sci_02", "category": "science", "lang": "en", "response": "Iron is the chemical element with the symbol Fe. Final answer: Iron"}
+{"key": "sci_02|es", "id": "sci_02", "category": "science", "lang": "es", "response": "El símbolo **Fe** corresponde al elemento químico **ferro**. Este metal es abundante en la corteza terrestre y se utiliza en la fabricación de acero, aleaciones de hierro y otros materiales.\nRespuesta final: Fe"}
+{"key": "sci_03|en", "id": "sci_03", "category": "science", "lang": "en", "response": "Mercury is the closest planet to the Sun. Final answer: Mercury"}
+{"key": "sci_03|es", "id": "sci_03", "category": "science", "lang": "es", "response": "El planeta más cercano al Sol es la Tierra, que se encuentra en el centro de nuestro sistema solar. La respuesta final: Tierra"}
+{"key": "sci_04|en", "id": "sci_04", "category": "science", "lang": "en", "response": "The largest planet in the Solar System is Jupiter. Final answer: Jupiter"}
+{"key": "sci_04|es", "id": "sci_04", "category": "science", "lang": "es", "response": "El planeta más grande del sistema solar es Júpiter.\nRespuesta final: Júpiter"}
+{"key": "sci_05|en", "id": "sci_05", "category": "science", "lang": "en", "response": "Final answer: 100"}
+{"key": "sci_05|es", "id": "sci_05", "category": "science", "lang": "es", "response": "El agua se hierve a 100 grados Celsius a nivel del mar bajo presión atmosférica estándar.\nRespuesta final: 100"}
+{"key": "sci_06|en", "id": "sci_06", "category": "science", "lang": "en", "response": "Final answer: 206"}
+{"key": "sci_06|es", "id": "sci_06", "category": "science", "lang": "es", "response": "El cuerpo humano adulto tiene aproximadamente 206 huesos. Aunque existen 206 huesos en total, solo 20 son huesos óseos (que forman el esqueleto), mientras que los otros 186 son huesos no óseos (que forman el sistema muscular, nervioso y sanguíneo).\n\nRespuesta final: 206"}
+{"key": "sci_07|en", "id": "sci_07", "category": "science", "lang": "en", "response": "Nitrogen is the most abundant gas in Earth's atmosphere, making up approximately 78% of the air.\n\nFinal answer: Nitrogen"}
+{"key": "sci_07|es", "id": "sci_07", "category": "science", "lang": "es", "response": "El gas más abundante en la atmósfera terrestre es el oxígeno. Aunque el hidrógeno es el gas más ligero, el oxígeno tiene una concentración mucho mayor en la atmósfera terrestre. Respuesta final: O₂"}
+{"key": "sci_08|en", "id": "sci_08", "category": "science", "lang": "en", "response": "Water is a compound made of hydrogen and oxygen atoms bonded together. The chemical formula for water is H₂O. Final answer: H₂O"}
+{"key": "sci_08|es", "id": "sci_08", "category": "science", "lang": "es", "response": "La fórmula química del agua es H₂O.\nRespuesta final: H₂O"}
+{"key": "sci_09|en", "id": "sci_09", "category": "science", "lang": "en", "response": "The hardest naturally occurring material is diamond.\n\nFinal answer: diamond"}
+{"key": "sci_09|es", "id": "sci_09", "category": "science", "lang": "es", "response": "El material natural más duro es el diamante, que posee una dureza de 10 en la escala de Mohs. Aunque el diamante es extremadamente resistente, el oro es el material natural más duro, con una dureza de 21. La respuesta final: Diamante"}
+{"key": "sci_10|en", "id": "sci_10", "category": "science", "lang": "en", "response": "A typical human body cell has 46 chromosomes.\nFinal answer: 46"}
+{"key": "sci_10|es", "id": "sci_10", "category": "science", "lang": "es", "response": "Una célula típica del cuerpo humano tiene 46 cromosomas. Este número se divide en pares: 23 pares de cromosomas X y 23 pares de cromosomas Y.\nRespuesta final: 46"}
+{"key": "sci_11|en", "id": "sci_11", "category": "science", "lang": "en", "response": "The pancreas produces insulin. Final answer: pancreas"}
+{"key": "sci_11|es", "id": "sci_11", "category": "science", "lang": "es", "response": "La insulina es un hormona producida principalmente por las células beta de los **páncreas**. Esta hormona regula la glucosa en sangre al ayudar a que las células consuman el azúcar.\n\nRespuesta final: páncreas"}
+{"key": "sci_12|en", "id": "sci_12", "category": "science", "lang": "en", "response": "The atomic number of carbon is 6. Final answer: 6"}
+{"key": "sci_12|es", "id": "sci_12", "category": "science", "lang": "es", "response": "El número atómico del carbono es 6. Este valor representa el número de protones en el núcleo de cada átomo de carbono, lo que define su identidad química.\n\nRespuesta final: 6"}
+{"key": "sci_13|en", "id": "sci_13", "category": "science", "lang": "en", "response": "Jupiter is known as the Red Planet. Final answer: Jupiter"}
+{"key": "sci_13|es", "id": "sci_13", "category": "science", "lang": "es", "response": "El planeta rojo es conocido como **Mercurio**. Es el planeta más cercano al Sol y el más pequeño de los planetas conocidos.\n\nRespuesta final: Mercurio"}
+{"key": "sci_14|en", "id": "sci_14", "category": "science", "lang": "en", "response": "The SI unit of electrical resistance is the **Ohm** (symbol: Ω).\n\nFinal answer: Ohm"}
+{"key": "sci_14|es", "id": "sci_14", "category": "science", "lang": "es", "response": "La unidad del SI de la resistencia eléctrica es el ohm, representado por la letra **Ω**.", "retried": true}
+{"key": "sci_15|en", "id": "sci_15", "category": "science", "lang": "en", "response": "There are 8 planets in the Solar System. Final answer: 8"}
+{"key": "sci_15|es", "id": "sci_15", "category": "science", "lang": "es", "response": "El sistema solar tiene 8 planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.\nRespuesta final: 8"}
+{"key": "sci_16|en", "id": "sci_16", "category": "science", "lang": "en", "response": "An insect has 6 legs. Final answer: 6"}
+{"key": "sci_16|es", "id": "sci_16", "category": "science", "lang": "es", "response": "Un insecto tiene generalmente 6 patas. Aunque algunos insectos como los arañas tienen 8 patas, la mayoría de los insectos terrestres y acuáticos tienen 6. Respuesta final: 6"}
+{"key": "sci_17|en", "id": "sci_17", "category": "science", "lang": "en", "response": "Red blood cells carry oxygen.\n\nFinal answer: Red blood cells"}
+{"key": "sci_17|es", "id": "sci_17", "category": "science", "lang": "es", "response": "Las células de la sangre que transportan el oxígeno son las **hemocitos** (específicamente los **hemoglobinas** en los glóbulos rojos). Estas células contienen hemoglobina, una proteína que permite que la sangre transporte el oxígeno de los pulmones a los tejidos.\n\nRespuesta final: las células de la sangre que transportan el oxígeno son las hemocitos (hemoglobinas)."}
+{"key": "sci_18|en", "id": "sci_18", "category": "science", "lang": "en", "response": "Albert Einstein developed the theory of general relativity. Final answer: Albert Einstein"}
+{"key": "sci_18|es", "id": "sci_18", "category": "science", "lang": "es", "response": "La teoría de la relatividad general fue desarrollada por Albert Einstein en 1915. Su trabajo, que unificó la mecánica clásica con la gravedad, se publicó en el libro \"La Relatividad General\" en 1916.\nRespuesta final: Albert Einstein"}
+{"key": "sci_19|en", "id": "sci_19", "category": "science", "lang": "en", "response": "Neon is a noble gas with the chemical symbol Ne. Final answer: Ne"}
+{"key": "sci_19|es", "id": "sci_19", "category": "science", "lang": "es", "response": "El gas noble con el símbolo químico Ne es el Helio.\nRespuesta final: Helio"}
+{"key": "sci_20|en", "id": "sci_20", "category": "science", "lang": "en", "response": "Charles Darwin proposed the theory of evolution by natural selection.\n\nFinal answer: Charles Darwin"}
+{"key": "sci_20|es", "id": "sci_20", "category": "science", "lang": "es", "response": "La teoría de la evolución por selección natural fue propuesta por el naturalista inglés **Charles Darwin** en su obra *El origen de las especies* (1859). Aunque su teoría se desarrolló a través de la observación de fenómenos naturales y la evolución de las especies, la idea central de que las especies se adaptan a su entorno mediante la selección de las características que mejor dan ventaja a la supervivencia y la reproducción se formuló en su propio pensamiento.\n\nRespuesta final: Charles Darwin"}
+{"key": "his_01|en", "id": "his_01", "category": "history", "lang": "en", "response": "Final answer: 1969"}
+{"key": "his_01|es", "id": "his_01", "category": "history", "lang": "es", "response": "El Apolo 11 llevó por primera vez humanos a la Luna en 1969.\nRespuesta final: 1969"}
+{"key": "his_02|en", "id": "his_02", "category": "history", "lang": "en", "response": "World War II ended in 1945. Final answer: 1945"}
+{"key": "his_02|es", "id": "his_02", "category": "history", "lang": "es", "response": "La Segunda Guerra Mundial terminó oficialmente en 1945, cuando los Estados Unidos y la Unión Soviética declararon la paz en el Pacto de No Agresión. Sin embargo, la guerra se consideró terminada en 1946 cuando los países occidentales reconocieron la victoria de Alemania y la Unión Soviética.\n\nRespuesta final: 1945"}
+{"key": "his_03|en", "id": "his_03", "category": "history", "lang": "en", "response": "Miguel de Cervantes wrote Don Quixote. Final answer: Miguel de Cervantes"}
+{"key": "his_03|es", "id": "his_03", "category": "history", "lang": "es", "response": "El autor de Don Quijote de la Mancha es Miguel de Cervantes, un escritor español del siglo XVII.\nRespuesta final: Miguel de Cervantes"}
+{"key": "his_04|en", "id": "his_04", "category": "history", "lang": "en", "response": "Leonardo da Vinci painted the Mona Lisa. Final answer: Leonardo da Vinci"}
+{"key": "his_04|es", "id": "his_04", "category": "history", "lang": "es", "response": "La Mona Lisa fue pintada por el artista italiano Leonardo da Vinci.\nRespuesta final: Leonardo da Vinci"}
+{"key": "his_05|en", "id": "his_05", "category": "history", "lang": "en", "response": "Christopher Columbus first reached the Americas in 1492. Final answer: 1492"}
+{"key": "his_05|es", "id": "his_05", "category": "history", "lang": "es", "response": "Cristóbal Colón llegó por primera vez a América en 1492.\nRespuesta final: 1492"}
+{"key": "his_06|en", "id": "his_06", "category": "history", "lang": "en", "response": "Final answer: 1989"}
+{"key": "his_06|es", "id": "his_06", "category": "history", "lang": "es", "response": "El Muro de Berlín cayó en 1989.\nRespuesta final: 1989"}
+{"key": "his_07|en", "id": "his_07", "category": "history", "lang": "en", "response": "George Washington was the first President of the United States. Final answer: George Washington"}
+{"key": "his_07|es", "id": "his_07", "category": "history", "lang": "es", "response": "El primer presidente de los Estados Unidos fue George Washington.\nRespuesta final: George Washington"}
+{"key": "his_08|en", "id": "his_08", "category": "history", "lang": "en", "response": "William Shakespeare wrote Romeo and Juliet. Final answer: William Shakespeare"}
+{"key": "his_08|es", "id": "his_08", "category": "history", "lang": "es", "response": "El autor de \"Romeo y Julieta\" es Francisco de Quevedo, un escritor español del siglo XVII.\nRespuesta final: Francisco de Quevedo"}
+{"key": "his_09|en", "id": "his_09", "category": "history", "lang": "en", "response": "Gabriel García Márquez wrote One Hundred Years of Solitude. Final answer: Gabriel García Márquez"}
+{"key": "his_09|es", "id": "his_09", "category": "history", "lang": "es", "response": "El autor de \"Cien años de soledad\" es Gabriel García Márquez.\nRespuesta final: Gabriel García Márquez"}
+{"key": "his_10|en", "id": "his_10", "category": "history", "lang": "en", "response": "The French Revolution began in 1789. Final answer: 1789"}
+{"key": "his_10|es", "id": "his_10", "category": "history", "lang": "es", "response": "La Revolución francesa comenzó oficialmente el 25 de abril de 1789 en París, cuando se proclamó la independencia de Francia de España.\nRespuesta final: 1789"}
+{"key": "his_11|en", "id": "his_11", "category": "history", "lang": "en", "response": "The Ninth Symphony that includes the 'Ode to Joy' was composed by **Carl Philipp Emanuel Bach**.\n\nFinal answer: Carl Philipp Emanuel Bach"}
+{"key": "his_11|es", "id": "his_11", "category": "history", "lang": "es", "response": "La Novena Sinfonía de Mozart fue compuesta en 1791 y contiene el \"Himno a la alegría\" (Hymn to Joy), que es una de sus obras más famosas y reconocidas.\nRespuesta final: Wolfgang Amadeus Mozart"}
+{"key": "his_12|en", "id": "his_12", "category": "history", "lang": "en", "response": "The Titanic sank in 1912. Final answer: 1912"}
+{"key": "his_12|es", "id": "his_12", "category": "history", "lang": "es", "response": "El Titanic se hundió en el año 1912.\nRespuesta final: 1912"}
+{"key": "his_13|en", "id": "his_13", "category": "history", "lang": "en", "response": "Neil Armstrong was the first human to travel into space.\n\nFinal answer: Neil Armstrong"}
+{"key": "his_13|es", "id": "his_13", "category": "history", "lang": "es", "response": "El primer ser humano a viajar al espacio fue **Yuri Gagarin**, quien fue el primer hombre en volar en el espacio, realizando su primera misión en 1961.\nRespuesta final: Yuri Gagarin"}
+{"key": "his_14|en", "id": "his_14", "category": "history", "lang": "en", "response": "The Inca civilization built Machu Picchu.\n\nFinal answer: Inca"}
+{"key": "his_14|es", "id": "his_14", "category": "history", "lang": "es", "response": "La civilización que construyó Machu Picchu fue la **Inca**, una civilización que se desarrolló en el Perú durante el siglo XVI. Sus habitantes, los Incas, se caracterizaban por su organización social basada en jerarquías, el uso de la agricultura, la agricultura y la construcción de grandes estructuras de piedra.\n\nRespuesta final: La civilización que construyó Machu Picchu fue la Inca."}
+{"key": "his_15|en", "id": "his_15", "category": "history", "lang": "en", "response": "Louis Pasteur discovered penicillin in 1928. Final answer: Louis Pasteur"}
+{"key": "his_15|es", "id": "his_15", "category": "history", "lang": "es", "response": "La penicilina fue descubierta por el médico francés **Alexander Fleming** en 1928. Aunque el antibiótico se descubrió por accidente en un laboratorio, el descubrimiento fue impulsado por el interés de Fleming por la resistencia bacteriana y la necesidad de desarrollar nuevos tratamientos.\n\nRespuesta final: Alexander Fleming"}
+{"key": "his_16|en", "id": "his_16", "category": "history", "lang": "en", "response": "George Orwell wrote the novel 1984. Final answer: George Orwell"}
+{"key": "his_16|es", "id": "his_16", "category": "history", "lang": "es", "response": "El autor de la novela *1984* es George Orwell.", "retried": true}
+{"key": "his_17|en", "id": "his_17", "category": "history", "lang": "en", "response": "The United States Declaration of Independence was signed on July 4, 1776. Final answer: 1776"}
+{"key": "his_17|es", "id": "his_17", "category": "history", "lang": "es", "response": "La Declaración de Independencia de los Estados Unidos fue firmada el 4 de julio de 1776.\nRespuesta final: 1776"}
+{"key": "his_18|en", "id": "his_18", "category": "history", "lang": "en", "response": "The Colosseum was built in Rome by the Romans. Final answer: Romans"}
+{"key": "his_18|es", "id": "his_18", "category": "history", "lang": "es", "response": "La civilización antigua que construyó el Coliseo de Roma fue la **Roma**. Este edificio monumental, inaugurado en 77 a.C., fue diseñado por el arquitecto romano Vitruvio y representó el máximo esplendor de la arquitectura imperial romana.\nRespuesta final: Roma"}
+{"key": "his_19|en", "id": "his_19", "category": "history", "lang": "en", "response": "Francisco Goya painted Guernica. Final answer: Francisco Goya"}
+{"key": "his_19|es", "id": "his_19", "category": "history", "lang": "es", "response": "El Guernica fue pintado por Pablo Picasso en 1937. Fue una obra monumental creada para protestar contra la guerra en el bando de la República Francesa, y es considerado uno de los grandes maestros del arte moderno.\n\nRespuesta final: Pablo Picasso"}
+{"key": "his_20|en", "id": "his_20", "category": "history", "lang": "en", "response": "Marie Curie won the Nobel Prize in Physics in 1903 for her work on radioactivity. Final answer: Marie Curie"}
+{"key": "his_20|es", "id": "his_20", "category": "history", "lang": "es", "response": "La primera mujer en ganar un Premio Nobel fue **Marie Curie** en 1903 por sus descubrimientos en el radioactivo y en la electricidad.\nRespuesta final: Marie Curie"}
